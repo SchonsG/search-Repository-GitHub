@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Aplicação criada em React JS com Typescript. Uma aplicação que visa consumir a API do Github para procura de repositórios. Após, é possível selecionar o repositório e verificar suas Issues.
+Aplicação criada em React JS com Typescript. Aplicação que consome a API do Github para encontrar repositórios. Após, é possível selecionar o repositório e verificar suas Issues e acessar o link direto destas.
 
 Dashboard inicial:
 
